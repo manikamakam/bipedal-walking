@@ -1,8 +1,6 @@
 # Modelling and Simulation of a Biped Walking Robot
 
-This project aimed to model and simulate static walking of bipedal robot (performed in both 2 dimensions and 3 dimensions). In this project, we develop a kinematic model of the robot and generate stable trajectories for walking. These models and trajectories are then validated with the help of simulations. 
-
-These three steps of kinematic model development, trajectory generation and validation (simulation) are followed for both two and three dimensional walking. The reports concludes with a discussion of how this work can be taken forward.
+This project aimed to model and simulate static walking of bipedal robot (performed in both 2 dimensions and 3 dimensions). 
 
 ## Prerequisites
 * MATLAB
@@ -17,8 +15,9 @@ These three steps of kinematic model development, trajectory generation and vali
 
 **Step 1** Run 'TrajectoryGeneration_2D.m' ('TrajectoryGeneration_3D.m' for 3 dimensional model). This calculates the foot trajectories and the corresponding joint angles. You'll see the following output. 
 
-![alt text](2D_LeftLegAngle.PNG?raw=true "Title")
-![alt text](2D_RightLegAngle.PNG?raw=true "Title")
+<img src="https://github.com/p-akanksha/bipedal-walking/blob/master/2D_LeftLegAngle.PNG" width="48">
+<img src="https://github.com/p-akanksha/bipedal-walking/blob/master/2D_RightLegAngle.PNG" width="48">
+
 
 **Step2** Open 'BipedWalking_2D.slx' ('BipedWalking_3D.slx' for 3 dimensional model) and run it. 
 
