@@ -22,9 +22,3 @@ This project aimed to model and simulate static walking of bipedal robot (perfor
 
 
 **Step2** Open 'BipedWalking_2D.slx' ('BipedWalking_3D.slx' for 3 dimensional model) and run it. 
-
----
-
-## Multiphysics and Contact Libraries
-For convenience, local copies of the Simscape Multibody Multiphysics Library and
-Simscape Multibody Contact Forces Library have been included with this submission.
