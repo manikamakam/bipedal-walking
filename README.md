@@ -21,4 +21,4 @@ This project aimed to model and simulate static walking of bipedal robot (perfor
 </p>
 
 
-**Step2** Open 'BipedWalking_2D.slx' ('BipedWalking_3D.slx' for 3 dimensional model) and run it. 
+**Step2** Open 'BipedWalking_2D.slx' ('BipedWalking_3D.slx' for 3 Dimensional model) and run it. 
